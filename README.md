@@ -7,4 +7,4 @@
 - 📫 You can reach me in my Instagram @vinirosso08
 - ⚡ Fun fact: I like Star Wars and Formula 1
 
-[![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniRosso)](https://github.com/anuraghazra/github-readme-stats)
+![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniRosso&show_icons=true&theme=dark)
